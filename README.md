@@ -18,3 +18,6 @@
 # Run
 
 `npm start`
+
+
+npm run willl ist all scripts you can try
